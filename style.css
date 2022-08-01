@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navegacao{}
+.navegacaoMenu{}
+.navegacaoMenu li{}
+.navegacaoMenu li a{}
+
+.principal{}
+.principalForm{}
+.principalForm label{}
+.principalForm button{}
+
+.post{}
+.postCabecalho{}
+.postCover{}
+.postPrincipal{}
+.postPrincipal h1{}
+.postPrincipal p{}
+
+.ultimosPosts{}
+.ultimoPost{}
+.ultimoPost img{}
+.ultimoPost h3{}
+.ultimoPost p{}
+.ultimoPost a{}
